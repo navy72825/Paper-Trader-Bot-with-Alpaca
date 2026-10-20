@@ -1,4 +1,4 @@
-# <img src="Frontend/public/trading-bot-icono-fav.ico" alt="PaperTrader Logo" width="32" style="vertical-align: middle;"/> Paper Trading Bot with Alpaca 
+y# <img src="Frontend/public/trading-bot-icono-fav.ico" alt="PaperTrader Logo" width="32" style="vertical-align: middle;"/> Paper Trading Bot with Alpaca 
 
 A full-stack paper trading platform that integrates with Alpaca Markets API, enabling users to practice trading strategies with real-time market data without risking real money.
 
